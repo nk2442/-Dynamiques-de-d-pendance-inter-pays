@@ -35,39 +35,51 @@ L'hypothèse de notre projet informatique est que l'évolution des échanges dan
 
 
 ![Courbe](https://media.discordapp.net/attachments/1071034292467159130/1096073386511323332/2023-04-13_16_01_50-NVIDIA_GeForce_Overlay_DT.jpg?width=1082&height=606)
-**La partie terminal de commande
+**La partie terminal de commande**
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073551167098920/2023-04-13_16_02_07-NVIDIA_GeForce_Overlay_DT.jpg?width=735&height=606)
-**En début de simulation
+**En début de simulation**
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073600148197448/2023-04-13_16_03_08-NVIDIA_GeForce_Overlay_DT.jpg?width=730&height=606)
-**En milieu de simulation
+**En milieu de simulation**
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073665478672384/2023-04-13_16_03_16-NVIDIA_GeForce_Overlay_DT.jpg?width=730&height=606)
-**La stabilité en milieu de simulation
+**La stabilité en milieu de simulation**
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096074077380296724/2023-04-13_16_06_41-NVIDIA_GeForce_Overlay_DT.jpg?width=732&height=606)
-**En fin de simulation
+**En fin de simulation**
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096074153146208327/2023-04-13_16_06_49-NVIDIA_GeForce_Overlay_DT.jpg?width=731&height=606)
-**La stabilité en fin de simulation
+**La stabilité en fin de simulation**
 
 
 
 On peut également observer la simulation sur différentes échelles : 
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096074387792330822/2023-04-13_16_07_44-NVIDIA_GeForce_Overlay_DT.jpg?width=732&height=606)
-**En 5x5
+**En 5x5**
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096074423137747015/2023-04-13_16_08_02-NVIDIA_GeForce_Overlay_DT.jpg?width=733&height=606)
-**En 20x20
+**En 20x20**
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096075949226864671/2023-04-13_16_09_41-NVIDIA_GeForce_Overlay_DT.jpg?width=733&height=606)
-**Et même en 100x100
+**Et même en 100x100**
 
 
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (avec une analyse critique).
+Nous avons par la suite modélisé ces résultats à l'aide de graphes : 
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382371009409165/cons_ener.png?width=1203&height=606)
+
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382371252674590/cout_ener.png?width=1203&height=606)
+
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382371571433562/pourcent_max.png?width=1203&height=606)
+
+
+##Analyse des résultats : 
+
 
 ### Lien vers page de blog :
 [C'est ici !](blog.html)
