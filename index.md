@@ -30,6 +30,9 @@ L'hypothèse de notre projet informatique est que l'évolution des échanges dan
 - La limite de tour non-stable avant fusion
 - Le pourcentage d'énergie donnée lors des échanges
 
+##### Explication des règles de modélisation :
+
+
 ### Présentation structurée des résultats
 
 
@@ -67,7 +70,7 @@ On peut également observer la simulation sur différentes échelles :
 
 
 
-Nous avons par la suite modélisé ces résultats à l'aide de graphes : 
+Nous avons par la suite modélisé la satisfaction des pays suite aux résultats à l'aide de graphes : 
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382371009409165/cons_ener.png?width=1203&height=606)
 
@@ -77,8 +80,17 @@ Nous avons par la suite modélisé ces résultats à l'aide de graphes :
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382371571433562/pourcent_max.png?width=1203&height=606)
 
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382371844075560/prod_ener.png?width=1203&height=606)
+
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382372368351262/taille_grille.png?width=1203&height=606)
+
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382372649382048/tour_nonstable.png?width=1203&height=606)
+
 
 ##Analyse des résultats : 
+En observant l'ensemble des résultats, on remarque que les disparités entre pays s'effacent, la satisfaction atteint toujours les 100%, donc chaque des pays est satisfait de ses échanges établis. La stabilité est cependant pas atteinte pour chaque pays en fin de simulation
 
 
 ### Lien vers page de blog :
