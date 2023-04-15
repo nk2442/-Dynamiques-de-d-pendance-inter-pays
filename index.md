@@ -30,8 +30,8 @@ L'hypothèse de notre projet informatique est que l'évolution des échanges dan
 - La limite de tour non-stable avant fusion
 - Le pourcentage d'énergie donnée lors des échanges
 
-##### Explication des règles de modélisation :
-
+##### **Explication des règles de modélisation :**
+(a faire)
 
 ### Présentation structurée des résultats
 
