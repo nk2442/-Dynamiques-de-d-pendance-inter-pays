@@ -1,5 +1,3 @@
-# Nom du projet
-
 ## Dynamiques de dépendance inter-pays
 **ARE DYNAMIC**
 [View on GitHub](https://github.com/NathanSauret/ARE_Dynamic_Nathan_Najla_Claude)
