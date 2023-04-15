@@ -2,7 +2,7 @@
 **ARE DYNAMIC**
 [View on GitHub](https://github.com/NathanSauret/ARE_Dynamic_Nathan_Najla_Claude)
 
-![Image du monde](https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2){width=50% height=50%}
+![Image du monde](https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2){width=20% height=20%}
 
 ### Introduction
 Nous avons mené une recherche portant sur l'analyse de la stabilité potentielle résultant de la dépendance énergétique entre pays, et de sa généralisation entre groupes donnés. Les relations que les puissances entretiennent au niveau des ressources peuvent jouer un rôle déterminant dans l'évolution économique d'un pays. Elles sont indispensables à sa santé économique, expriment son influence et son degré de présence sur le marché international. Nous avons ainsi cherché à déterminer et modéliser les principaux facteurs contribuant à la stabilité générale d'un ensemble de pays ou menant à un déséquilibre global.
@@ -30,9 +30,9 @@ Observer les potentielles stabilités et les conditions initiales
 
 ![Courbe](https://media.discordapp.net/attachments/1071034292467159130/1096073386511323332/2023-04-13_16_01_50-NVIDIA_GeForce_Overlay_DT.jpg?width=1082&height=606){width=50% height=50%}
 
-![Image Instagram](https://www.instagram.com/p/CrAwCMyNgpq/){width=50% height=50%}
+![Image Instagram](https://www.instagram.com/p/CrAwCMyNgpq/){width=20% height=20%}
 
-![Image](https://journals.plos.org/plosone/article/figure/image?download&size=large&id=10.1371/journal.pone.0193950.g001){width=50% height=50%}
+![Image](https://journals.plos.org/plosone/article/figure/image?download&size=large&id=10.1371/journal.pone.0193950.g001){width=20% height=20%}
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (avec une analyse critique).
 
