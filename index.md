@@ -1,6 +1,6 @@
 
 
-## Dynamiques de dépendance inter-pays
+###### Dynamiques de dépendance inter-pays
 **ARE DYNAMIC**
 
 
@@ -15,10 +15,12 @@ Nous avons mené une recherche portant sur l'analyse de la stabilité potentiell
 La dépendance énergétique entre pays amène-t-elle à une stabilité générale ?
 
 ##### Hypothèse principale :
-Selon nous, l'évolution du modèle développé ici va tendre vers une stabilité dans la majorité des cas
+L'hypothèse de notre projet informatique est que l'évolution des échanges dans une micro-économie inter-pays basée sur des règles simples tendra généralement vers une stabilité. En d'autres termes, la majorité des cas aboutiront à une situation où les échanges se stabilisent. Nous prévoyons que les variations seront limitées et que les conditions seront favorables à la pérennité de l'économie. Cette hypothèse se base sur l'idée que les règles simples seront suffisantes pour équilibrer les échanges entre les différents pays impliqués dans le système. Nous allons tester cette hypothèse en développant un modèle informatique et en observant son évolution sur une période donnée.
 
 ##### Objectifs :
-Observer les potentielles stabilités et les conditions initiales
+- Observer les potentielles stabilités et les conditions initiales qui y amènent
+- Identifier les facteurs qui influencent les flux commerciaux entre les pays, tels que la distance géographique, les différences de tailles ou les barrières financières.
+- Étudier la résilience des pays isolés et non isolés.
 
 ##### Règles de modélisation :
 - La production d'énergie
@@ -31,8 +33,9 @@ Observer les potentielles stabilités et les conditions initiales
 ### Présentation structurée des résultats
 
 ![Courbe](https://media.discordapp.net/attachments/1071034292467159130/1096073386511323332/2023-04-13_16_01_50-NVIDIA_GeForce_Overlay_DT.jpg?width=1082&height=606)
+La partie terminal de commande
 
-![Image Instagram](https://www.instagram.com/p/CrAwCMyNgpq/)
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073551167098920/2023-04-13_16_02_07-NVIDIA_GeForce_Overlay_DT.jpg?width=735&height=606)
 
 ![Image](https://journals.plos.org/plosone/article/figure/image?download&size=large&id=10.1371/journal.pone.0193950.g001)
 
