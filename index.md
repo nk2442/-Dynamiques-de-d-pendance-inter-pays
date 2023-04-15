@@ -35,16 +35,13 @@ L'hypothèse de notre projet informatique est que l'évolution des échanges dan
 
 
 ![Courbe](https://media.discordapp.net/attachments/1071034292467159130/1096073386511323332/2023-04-13_16_01_50-NVIDIA_GeForce_Overlay_DT.jpg?width=1082&height=606)
-La partie terminal de commande
-
-
-
-
-
+****La partie terminal de commande
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073551167098920/2023-04-13_16_02_07-NVIDIA_GeForce_Overlay_DT.jpg?width=735&height=606)
+****En début de simulation
 
-![Image](https://journals.plos.org/plosone/article/figure/image?download&size=large&id=10.1371/journal.pone.0193950.g001)
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073600148197448/2023-04-13_16_03_08-NVIDIA_GeForce_Overlay_DT.jpg?width=730&height=606)
+****En milieu de simulation
 
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (avec une analyse critique).
 
