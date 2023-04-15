@@ -43,8 +43,14 @@ L'hypothèse de notre projet informatique est que l'évolution des échanges dan
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073600148197448/2023-04-13_16_03_08-NVIDIA_GeForce_Overlay_DT.jpg?width=730&height=606)
 **En milieu de simulation
 
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073665478672384/2023-04-13_16_03_16-NVIDIA_GeForce_Overlay_DT.jpg?width=730&height=606)
+**La stabilité en milieu de simulation
+
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096074077380296724/2023-04-13_16_06_41-NVIDIA_GeForce_Overlay_DT.jpg?width=732&height=606)
 **En fin de simulation
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096074153146208327/2023-04-13_16_06_49-NVIDIA_GeForce_Overlay_DT.jpg?width=731&height=606)
+**La stabilité en fin de simulation
 
 
 
