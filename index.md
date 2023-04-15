@@ -32,8 +32,15 @@ L'hypothèse de notre projet informatique est que l'évolution des échanges dan
 
 ### Présentation structurée des résultats
 
+
+
 ![Courbe](https://media.discordapp.net/attachments/1071034292467159130/1096073386511323332/2023-04-13_16_01_50-NVIDIA_GeForce_Overlay_DT.jpg?width=1082&height=606)
 La partie terminal de commande
+
+
+
+
+
 
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096073551167098920/2023-04-13_16_02_07-NVIDIA_GeForce_Overlay_DT.jpg?width=735&height=606)
 
