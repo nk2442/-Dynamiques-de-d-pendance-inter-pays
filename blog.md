@@ -33,3 +33,39 @@ correction du plantage en changant ces lignes là: : # Le voisin a de l'énergie
 
 
 puis après cela, code fini. 
+
+
+
+
+
+
+
+
+
+
+
+2 / 2
+
+Semaine 1:
+Au cours de la première semaine du projet, différentes idées ont été explorées. Celles-ci incluent l'observation de la répartition de biens au sein d'un groupe constitué d'altruistes et d'égoïstes. En revanche, l'idée d'étudier l'évolution des stalactites et stalagmites d'une grotte en fonction des conditions de température et de lumière a été rejetée.
+
+Semaine 2:
+Au cours de la deuxième semaine, un sujet a été choisi et la problématique formulée : doit-on donner de l'énergie aux autres pays ? La pertinence du sujet a été évaluée. Les règles de modélisation ont commencé à être établies. Les conditions prises en compte incluent uniquement la production et la consommation d'énergie, les ressources, le prix de l'échange, la limite de tour non-stable avant fusion, et le pourcentage d'énergie donnée lors des échanges. Les contextes géopolitiques ou dynamiques de pouvoir n'ont pas été pris en compte pour faciliter l'implémentation.
+
+Semaine 3:
+La troisième semaine a été consacrée à la mise en place des fonctions et des classes pouvant représenter le modèle ainsi qu'à la recherche documentaire. Des difficultés ont été rencontrées pour trouver du contenu relatif à des sujets similaires sans être hors sujet.
+
+Semaine 4:
+Au cours de la quatrième semaine, le code a été continué. L'implémentation de la visualisation via l'interface pygame a été réalisée. Les fonctions suivantes ont été mises en place : une fonction qui échange l'énergie contre des ressources entre deux pays, une fonction qui vérifie la stabilité d'un pays, une fonction qui génère un pays aléatoire, une fonction qui génère une grille remplie de pays aléatoires, une fonction qui renvoie une grille avec la stabilité des pays, une fonction qui renvoie le pourcentage de pays stables dans une grille, une fonction qui renvoie le voisinage d'un pays.
+
+Semaine 5:
+La cinquième semaine a été consacrée à l'utilisation du théorème des quatre couleurs sur l'interface pygame pour s'assurer que tous les pays limitrophes sont de couleurs différentes. Ainsi, il est possible de faire la distinction entre deux pays collés l'un à l'autre dans le cas où un pays fusionne avec un autre et prend donc plus d'une case.
+
+Semaine 6:
+Au cours de la sixième semaine, le code a été continué avec l'implémentation de la fonction de fusion des pays, qui s'avère être en réalité l'alliance de deux pays pour effectuer des échanges.
+
+Semaine 7:
+La septième semaine a été consacrée à la finalisation du menu avec des entrées et sorties de données. Si aucune entrée n'est donnée, des valeurs aléatoires sont générées. Le carnet de bord des recherches documentaires a également été finalisé.
+
+Semaine 8:
+Au cours de la huitième semaine, la logique d'itération pour le code a été finalisée. Toute la logique et les fonctions logiques ont été implémentées dans l'affichage. Le tout s'affiche à peu près normalement, mais il y a encore un problème avec les pays qui ont été absorbés. Une erreur de type "Pays object is not
