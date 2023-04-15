@@ -54,6 +54,19 @@ L'hypothèse de notre projet informatique est que l'évolution des échanges dan
 
 
 
+On peut également observer la simulation sur différentes échelles : 
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096074387792330822/2023-04-13_16_07_44-NVIDIA_GeForce_Overlay_DT.jpg?width=732&height=606)
+**En 5x5
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096074423137747015/2023-04-13_16_08_02-NVIDIA_GeForce_Overlay_DT.jpg?width=733&height=606)
+**En 20x20
+
+![Image](https://media.discordapp.net/attachments/1071034292467159130/1096075949226864671/2023-04-13_16_09_41-NVIDIA_GeForce_Overlay_DT.jpg?width=733&height=606)
+**Et même en 100x100
+
+
+
 Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (avec une analyse critique).
 
 ### Lien vers page de blog :
