@@ -51,3 +51,8 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ### Bibliographie :
 1. [« Indépendance énergétique ». Wikipédia](https://fr.wikipedia.org/w/index.php?title=Ind%C3%A9pendance_%C3%A9nerg%C3%A9tique&oldid=200590596)
+2. [Simple economic model (MATLAB) - LiteratePrograms. ](https://literateprograms.org/simple_economic_model__matlab_.html)
+3. [Simard-Casanova, Olivier. « Les Nouveaux Usages de La Simulation Informatique En Science économique ». The Conversation, 15 janvier 2017](https://theconversationhttps://www.academia.edu/10676359/Agent_based_model_of_a_simple_economy.com/les-nouveaux-usages-de-la-simulation-informatique-en-science-economique-61536)
+4. [Macal, Charles M., et Michael J. North. « Agent-based modeling and simulation ». Proceedings of the 2009 Winter Simulation Conference (WSC), 2009](https://www.researchgate.net/publication/216813135_Agent-based_modeling_and_simulation)
+5. [valentinaalto. « Understanding Agent Based Model with Python ». Data Science Chalk Talk, 7 juin 2020](http://www2.econ.iastate.edu/tesfatsi/ace.htm)
+6. [>Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. ](https://datasciencechalktalk.wordpress.com/2020/06/07/understanding-agent-based-model-with-python/)
