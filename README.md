@@ -1,6 +1,6 @@
 
 
-![Image du monde](https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2){width=640 height=427}
+
 
 ## Dynamiques de dépendance inter-pays
 **ARE DYNAMIC**
