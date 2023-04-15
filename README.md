@@ -1,5 +1,5 @@
 
-![Image du monde](https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2){width=640px height=427px}
+![Image du monde](https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2){style="width:640px;height:427px;}
 
 <img href="https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2" style="width:640px;height:427px;">
 
@@ -7,9 +7,6 @@
 ## Dynamiques de dépendance inter-pays
 **ARE DYNAMIC**
 [View on GitHub](https://github.com/NathanSauret/ARE_Dynamic_Nathan_Najla_Claude)
-
-<img href="https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2" style="width:640px;height:427px;">
-
 
 ### Introduction
 Nous avons mené une recherche portant sur l'analyse de la stabilité potentielle résultant de la dépendance énergétique entre pays, et de sa généralisation entre groupes donnés. Les relations que les puissances entretiennent au niveau des ressources peuvent jouer un rôle déterminant dans l'évolution économique d'un pays. Elles sont indispensables à sa santé économique, expriment son influence et son degré de présence sur le marché international. Nous avons ainsi cherché à déterminer et modéliser les principaux facteurs contribuant à la stabilité générale d'un ensemble de pays ou menant à un déséquilibre global.
