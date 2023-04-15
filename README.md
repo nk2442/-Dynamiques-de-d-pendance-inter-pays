@@ -6,7 +6,7 @@
 **ARE DYNAMIC**
 [View on GitHub](https://github.com/NathanSauret/ARE_Dynamic_Nathan_Najla_Claude)
 
-<img href="https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2" alt="texte alternatif" width="640" height="427">
+<img href="https://ec.europa.eu/cefdigital/wiki/download/attachments/106235155/world-1264062_1920.jpg?version=1&amp;modificationDate=1561369833246&amp;api=v2" alt="texte alternatif" style="width:640px;height:427px;">
 
 
 ### Introduction
