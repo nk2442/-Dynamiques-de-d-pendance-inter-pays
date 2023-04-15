@@ -40,7 +40,7 @@ Pendant la huitième et dernière semaine la logique d'itération pour le code a
      TypeError: 'Pays' object is not subscriptable 
      
      
-Par la suite, l'erreur a été corrigée en changant ces lignes là: : # Le voisin a de l'énergie à donner et le pays en difficulté a les ressources pour l'acheter
+Par la suite, l'erreur a été corrigée en changant ces lignes là : # Le voisin a de l'énergie à donner et le pays en difficulté a les ressources pour l'acheter
                         if surplus > 0 and COUT_ENER_EN_RESS*surplus >= p.ress:
                             i.ener_out.append([p, surplus/i.prod_ener])
                             p.ener_in.append([i, surplus/i.prod_ener])  
