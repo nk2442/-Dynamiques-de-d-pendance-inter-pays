@@ -89,14 +89,13 @@ Nous avons par la suite modélisé la satisfaction des pays suite aux résultats
 ![Image](https://media.discordapp.net/attachments/1071034292467159130/1096382372649382048/tour_nonstable.png?width=1203&height=606)
 
 
-##Analyse des résultats : 
-En observant l'ensemble des résultats, on remarque que les disparités entre pays s'effacent, la satisfaction atteint toujours les 100%, donc chaque des pays est satisfait de ses échanges établis. La stabilité est cependant pas atteinte pour chaque pays en fin de simulation
-
+## Analyse des résultats : 
+En procédant à l'analyse globale des résultats, il apparaît que les disparités économiques inter-pays tendent à s'estomper davantage, sans pour autant parvenir à atteindre le niveau maximal de satisfaction dans chacun des pays. La satisfaction observée varie selon les paramètres pris en compte, ce qui donne des résultats plus ou moins distincts. Par ailleurs, il est à noter que les différents pays atteignent un seuil de stabilité différent approximativement au même moment. De plus, les graphiques présentant la satisfaction en fonction de la taille de la grille illustrent une certaine proximité entre eux(conclusion à faire sur cette observation: )
 
 ### Lien vers page de blog :
-[C'est ici !](blog.html)
+[C'est ici !](blog.md)
 
-### Présentation de l'équipe
+### Membres du groupe
 - Nathan Sauret
 - Claude Chibout
 - Amira Rachdi
