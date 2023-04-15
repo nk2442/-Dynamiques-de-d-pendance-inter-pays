@@ -1,4 +1,4 @@
-
+# Blog : avancement du projet
 
 ### Semaine 1:
 Au cours de la première semaine du projet, différentes idées ont été explorées. Celles-ci incluent l'observation de la répartition de biens au sein d'un groupe constitué d'altruistes et d'égoïstes, et quel trait de caractère sera majoritaire. De plus, l'idée consistant à examiner comment les stalactites et les stalagmites d'une grotte évoluent en réponse à différentes conditions de température et de lumière a été envisagée.
@@ -16,7 +16,7 @@ Cette troisième semaine a été consacrée à la mise en place des premières f
   
 
 ### Semaine 4:
-Au cours de la quatrième semaine, le code a été continué. L'implémentation de la visualisation via l'interface pygame a été réalisée. Les fonctions suivantes ont été mises en place : une fonction qui échange l'énergie contre des ressources entre deux pays, une fonction qui vérifie la stabilité d'un pays, une fonction qui génère un pays aléatoire, une fonction qui génère une grille remplie de pays aléatoires, une fonction qui renvoie une grille avec la stabilité des pays, une fonction qui renvoie le pourcentage de pays stables dans une grille, une fonction qui renvoie le voisinage d'un pays.
+Au cours de la quatrième semaine, le code a été continué. L'implémentation de la visualisation via l'interface pygame a été réalisée. Les fonctions suivantes ont été mises en place : une fonction qui échange l'énergie contre des ressources entre deux pays, une fonction qui vérifie la stabilité d'un pays, une fonction qui génère un pays aléatoire, une fonction qui génère une grille remplie de pays aléatoires, une fonction qui renvoie une grille avec la stabilité des pays, une fonction qui renvoie le pourcentage de pays stables dans une grille, et enfin une fonction qui renvoie le voisinage d'un pays.
 
   
 
@@ -26,7 +26,7 @@ Cette cinquième semaine a été consacrée à l'utilisation du théorème des q
   
 
 ### Semaine 6:
-Au cours de la sixième semaine, le code a été continué avec l'implémentation de la fonction de fusion des pays, qui s'avère être en réalité l'alliance de deux pays pour effectuer des échanges. De la découle la notion de dépndance d'un pays envers l'autre. Quelques détails de l'interface pygame ont été amélioré, avec de la surbrillance sur les cases et lorsque l'on clique sur une case elle s'assombrie et cela affiche les informations du pays et ce jusqu'à ce qu'on clique sur un autre pays.
+Au cours de la sixième semaine, le code a été continué avec l'implémentation de la fonction de fusion des pays, qui s'avère être en réalité l'alliance de deux pays pour effectuer des échanges. De la découle la notion de dépendance d'un pays envers l'autre. Quelques détails de l'interface pygame ont été amélioré, avec de la surbrillance sur les cases et lorsque l'on clique sur une case elle s'assombrie et cela affiche les informations du pays et ce jusqu'à ce qu'on clique sur un autre pays.
 
   
 
