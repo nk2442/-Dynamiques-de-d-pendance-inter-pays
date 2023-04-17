@@ -29,6 +29,7 @@ L'hypothèse de notre projet informatique est que l'évolution des échanges dan
 - Le prix de l'échange
 - La limite de tour non-stable avant fusion
 - Le pourcentage d'énergie donnée lors des échanges
+- Dimension de la grille
 
 ##### **Explication des règles de modélisation :**
 Au commencement de la simulation, chaque pays dispose aléatoirement d'un niveau de production, de consommation ainsi que de ressources limitées dans les paramètres définis préalablement. À chaque itération suivante, le niveau de ressources de chaque pays augmente en raison de sa production. En cas de sur-production (production supérieure à la consommation), un pays peut procéder à un échange avec un autre pays voisin disposant de la production excédentaire, en échange de ressources disponibles. Toutefois, si un pays demeure en situation de sous-production pendant un nombre de tours déterminé en amont de la simulation, il sera absorbé par un pays voisin, sous réserve que ce dernier dispose d'une production suffisante.
