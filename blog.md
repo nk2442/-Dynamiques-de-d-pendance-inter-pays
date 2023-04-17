@@ -1,7 +1,7 @@
 # Blog : avancement du projet  
 
 ### Semaine 1:
-Au cours de la première semaine du projet, différentes idées ont été explorées. Celles-ci incluent l'observation de la répartition de biens au sein d'un groupe constitué d'altruistes et d'égoïstes, et quel trait de caractère sera majoritaire. De plus, l'idée consistant à examiner comment les stalactites et les stalagmites d'une grotte évoluent en réponse à différentes conditions de température et de lumière a été envisagée.
+Au cours de la première semaine du projet, différentes idées ont été explorées. Celles-ci incluent l'observation de la répartition de biens au sein d'un groupe constitué d'altruistes et d'égoïstes, et quel trait de caractère sera majoritaire. De plus, nous avons eu l'idée consistant à examiner comment les stalactites et les stalagmites d'une grotte évoluent en réponse à différentes conditions de température et de lumière a été envisagée.
 
   
 
