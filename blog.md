@@ -37,11 +37,13 @@ La septième semaine a été consacrée à la finalisation du menu avec des entr
 
 ### Semaine 8:
 Pendant la huitième et dernière semaine la logique d'itération pour le code a été finalisée. Toute la logique et les fonctions logiques ont été implémentées dans l'affichage. Le tout s'affiche à peu près normalement, mais il y avait encore un problème avec les pays qui ont été absorbés. Un plantage majeur qui est le suivant: if i == z[0]: donneDejaEnnergie = True
-     TypeError: 'Pays' object is not subscriptable 
+                           TypeError: 'Pays' object is not subscriptable 
      
      
 Par la suite, l'erreur a été corrigée en changant ces lignes là : # Le voisin a de l'énergie à donner et le pays en difficulté a les ressources pour l'acheter
                         if surplus > 0 and COUT_ENER_EN_RESS*surplus >= p.ress:
                             i.ener_out.append([p, surplus/i.prod_ener])
                             p.ener_in.append([i, surplus/i.prod_ener])  
+                            
+                            
  Suite à cela, des derniers tests ont été établis, la satisfaction a été représentée visuellement à travers des graphiques, et le site a été finalisé.
